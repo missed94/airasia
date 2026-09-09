@@ -43,6 +43,9 @@
   line-height: 1;
 }
 
+
+
+
 .footer__menu-component-link:hover {
   color: #f5170e;
 }
@@ -66,7 +69,9 @@
   position: relative;
   }
 
-footer__telegram-link {
+
+
+.footer__telegram-link {
   display: block;
   
 }
@@ -84,7 +89,6 @@ footer__telegram-link {
   transition: .3s;
 
 }
-
 
 .footer__telegram-link:after { 
   content: "";
@@ -107,8 +111,6 @@ footer__telegram-link {
 .footer__telegram-link:hover:after {
   opacity: 1;
 }
-
-
 
 .footer__vk-link:before { 
   content: "";
@@ -147,9 +149,6 @@ footer__telegram-link {
   opacity: 1;
 }
 
-
-
-
 .footer__facebook-link:before { 
   content: "";
   display: block;
@@ -163,7 +162,6 @@ footer__telegram-link {
   transition: .3s;
 
 }
-
 
 .footer__facebook-link:after { 
   content: "";
@@ -187,7 +185,6 @@ footer__telegram-link {
   opacity: 1;
 }
 
-
 .footer__instagram-link:before { 
   content: "";
   display: block;
@@ -201,7 +198,6 @@ footer__telegram-link {
   transition: .3s;
 
 }
-
 
 .footer__instagram-link:after { 
   content: "";
